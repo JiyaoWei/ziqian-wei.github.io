@@ -13,4 +13,12 @@ I am lucky to have the guidance of [Professor Jin Xiaolong](http://bigdatalab.ac
 
 You can find my resume here: [Wei Jiyao's resume](https://github.com/JiyaoWei/ziqian-wei.github.io/tree/master/assets/Curriculum_Vitae.pdf).
 
+## News and Events
+- [Jan 2025] Invited talk “Inductive Link Prediction in N-ary Knowledge Graphs”, at COLING 2025, Abu Dhabi, UAE.
+
+- [May 2024] Invited talk “Few-shot Link Prediction on Hyper-relational Facts”, at COLING-LREC 2024, Torino, Italia.
+
+
 [Email](mailto:weijiyao20z@ict.ac.cn) / [Github](https://github.com/JiyaoWei) / [Wechat](https://github.com/JiyaoWei/ziqian-wei.github.io/tree/master/images/wechat.jpg)
+
+
