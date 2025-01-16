@@ -11,7 +11,7 @@ I am a fifth-year direct PhD student at the [Key Laboratory of Network Data Scie
 
 Contact me via email if you have any interest in discussing/working/cooperating with me.
 
-You can find my resume here: [Wei Jiyao's resume](https://github.com/JiyaoWei/ziqian-wei.github.io/tree/master/assets/Curriculum_Vitae.pdf).
+You can find my resume here: [Jiyao Wei's resume](https://github.com/JiyaoWei/ziqian-wei.github.io/tree/master/assets/Curriculum_Vitae.pdf).
 
 ## News and Events
 - [Jan 2025] Invited talk “Inductive Link Prediction in N-ary Knowledge Graphs”, at COLING 2025, Abu Dhabi, UAE.
